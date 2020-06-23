@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DragonSky2357/movie_app_2020/static/css/main.d7bd83a0.chunk.css",
+    "main.js": "/DragonSky2357/movie_app_2020/static/js/main.ff3217ae.chunk.js",
+    "main.js.map": "/DragonSky2357/movie_app_2020/static/js/main.ff3217ae.chunk.js.map",
+    "runtime-main.js": "/DragonSky2357/movie_app_2020/static/js/runtime-main.9cf2cf33.js",
+    "runtime-main.js.map": "/DragonSky2357/movie_app_2020/static/js/runtime-main.9cf2cf33.js.map",
+    "static/js/2.1c2ec9d4.chunk.js": "/DragonSky2357/movie_app_2020/static/js/2.1c2ec9d4.chunk.js",
+    "static/js/2.1c2ec9d4.chunk.js.map": "/DragonSky2357/movie_app_2020/static/js/2.1c2ec9d4.chunk.js.map",
+    "index.html": "/DragonSky2357/movie_app_2020/index.html",
+    "precache-manifest.4729ea863fd35138ebcc574f910dcd6c.js": "/DragonSky2357/movie_app_2020/precache-manifest.4729ea863fd35138ebcc574f910dcd6c.js",
+    "service-worker.js": "/DragonSky2357/movie_app_2020/service-worker.js",
+    "static/css/main.d7bd83a0.chunk.css.map": "/DragonSky2357/movie_app_2020/static/css/main.d7bd83a0.chunk.css.map",
+    "static/js/2.1c2ec9d4.chunk.js.LICENSE.txt": "/DragonSky2357/movie_app_2020/static/js/2.1c2ec9d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cf2cf33.js",
+    "static/js/2.1c2ec9d4.chunk.js",
+    "static/css/main.d7bd83a0.chunk.css",
+    "static/js/main.ff3217ae.chunk.js"
+  ]
+}
